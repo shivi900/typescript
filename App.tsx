@@ -1,5 +1,4 @@
 /**
-
  *
  *
  * Generated with the TypeScript template
